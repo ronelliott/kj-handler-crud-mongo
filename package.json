@@ -1,6 +1,6 @@
 {
   "name": "kj-handler-crud-mongo",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "MongoDB CRUD handlers for the kj webapp framework.",
   "author": "Ron Elliott <ronaldbelliott@gmail.com>",
   "license": "ISC",
