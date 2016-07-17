@@ -6,6 +6,8 @@
 [![Coverage Status](https://coveralls.io/repos/ronelliott/kj-handler-crud-mongo/badge.svg?branch=master)](https://coveralls.io/r/ronelliott/kj-handler-crud-mongo?branch=master)
 [![Code Climate](https://codeclimate.com/github/ronelliott/kj-handler-crud-mongo/badges/gpa.svg)](https://codeclimate.com/github/ronelliott/kj-handler-crud-mongo)
 
+*DEPRECATED!*
+
 
 ## Installation
 Install using [NPM](https://github.com/isaacs/npm):
